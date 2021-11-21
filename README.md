@@ -12,7 +12,7 @@ I'm a Computer engineering student on an intention to enhance as a successful so
 
 ## Find me around the web 🌍
 
-- [LinkedIn]https://www.linkedin.com/in/kehinde-adejumobi-05799b1bb)
+- [LinkedIn](https://www.linkedin.com/in/kehinde-adejumobi-05799b1bb)
 - [Twitter](https://twitter.com/PERCEP3ON)
 
 ## My skills 🚀
