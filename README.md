@@ -23,6 +23,7 @@ I'm a Computer engineering student on an intention to enhance as a successful so
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black)
 ![](https://img.shields.io/badge/Flutter-1572B4?style=for-the-badge&logo=Flutter&logoColor=white)
+![](https://img.shields.io/badge/Dart-1572C3?style=for-the-badge&logo=Dart&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
