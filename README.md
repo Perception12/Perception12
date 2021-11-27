@@ -4,7 +4,7 @@ I'm a Computer engineering student on an intention to enhance as a successful so
 
 - 🔭 I’m currently working on my MERN Stack
 - :wink: I'm Proficient in Python
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently working with Flutter framework
 - 👯 I’m looking to collaborate on Full stack web development and mobile app development
 - 🤔 I’m looking for help with Backend & APIs
 - 💬 Ask me about Frontend Technologies
