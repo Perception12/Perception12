@@ -5,7 +5,7 @@ I'm a Computer engineering student on an intention to enhance as a successful so
 - :wink: I'm Proficient in Python
 - - 🔭 I’m currently working on my MERN Stack and flutter framework
 - 👯 I’m looking to collaborate on Machine Learning, Full stack web development and mobile app development
-- 🌱 I'm curious about web 3.0
+- :thinking: I'm curious about web 3.0
 - 💬 Ask me about Frontend Technologies
 - 📫 How to reach me: [kehindeadejumobi82@gmail.com](mailto:kehindeadejumobi82@gmail.com) & [Twitter @PERCEP3ON](https://twitter.com/PERCEP3ON)
 - 😄 Pronouns: He/Him
