@@ -23,12 +23,15 @@ I'm a Computer engineering student on an intention to enhance as a successful so
 ![](https://img.shields.io/badge/Flutter-1572B4?style=for-the-badge&logo=Flutter&logoColor=white)
 ![](https://img.shields.io/badge/Dart-1572C3?style=for-the-badge&logo=Dart&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=MySQL&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 
 ## My github stats :innocent:
 ![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perception12&show_icons=true&theme=radical)
