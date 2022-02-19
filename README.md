@@ -1,6 +1,6 @@
 # Hello, I am Kenny 👋
 
-I'm a Computer engineering student on an intention to enhance as a successful software engineer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I LOVE PYTHON!!!
+I'm a Computer engineering student on an intention to enhance as a successful software engineer. I love building full-stack web applications and mobile apps. I LOVE PYTHON!!!
 
 - :wink: I'm Proficient in Python
 - - 🔭 I’m currently working on my MERN Stack and flutter framework
