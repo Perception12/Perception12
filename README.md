@@ -1,6 +1,6 @@
 # Hello, I am Kenny 👋
 
-I'm a Computer engineering student on an intention to enhance as a successful software engineer. I love building web applications, mobile apps, and machine learning models. I LOVE PYTHON!!!
+I'm a Computer engineering student on an intention to enhance as a successful software engineer. I love building web applications, mobile apps, and ml pipelines. I LOVE PYTHON!!!
 
 - :wink: I'm Proficient in Python
 - 🔭 I’m currently learning and practicing flutter framework and Deep Learning
