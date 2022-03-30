@@ -3,7 +3,7 @@
 I'm a Computer engineering student on an intention to enhance as a successful software engineer. I love building web applications, mobile apps, and machine learning models. I LOVE PYTHON!!!
 
 - :wink: I'm Proficient in Python
-- - 🔭 I’m currently learning and practicing flutter framework and Deep Learning
+- 🔭 I’m currently learning and practicing flutter framework and Deep Learning
 - 👯 I’m looking to collaborate on Machine Learning, web development and mobile app development
 - :thinking: I'm curious about web 3.0
 - 💬 Ask me about Machine Learning
