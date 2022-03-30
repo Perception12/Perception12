@@ -1,12 +1,12 @@
 # Hello, I am Kenny 👋
 
-I'm a Computer engineering student on an intention to enhance as a successful software engineer. I love building full-stack web applications, mobile apps, and machine learning models. I LOVE PYTHON!!!
+I'm a Computer engineering student on an intention to enhance as a successful software engineer. I love building web applications, mobile apps, and machine learning models. I LOVE PYTHON!!!
 
 - :wink: I'm Proficient in Python
-- - 🔭 I’m currently working on my MERN Stack and flutter framework
-- 👯 I’m looking to collaborate on Machine Learning, Full stack web development and mobile app development
+- - 🔭 I’m currently learning and practicing flutter framework and Deep Learning
+- 👯 I’m looking to collaborate on Machine Learning, web development and mobile app development
 - :thinking: I'm curious about web 3.0
-- 💬 Ask me about Frontend Technologies
+- 💬 Ask me about Machine Learning
 - 📫 How to reach me: [kehindeadejumobi82@gmail.com](mailto:kehindeadejumobi82@gmail.com) & [Twitter @PERCEP3ON](https://twitter.com/PERCEP3ON)
 - 😄 Pronouns: He/Him
 
@@ -23,9 +23,6 @@ I'm a Computer engineering student on an intention to enhance as a successful so
 ![](https://img.shields.io/badge/Flutter-1572B4?style=for-the-badge&logo=Flutter&logoColor=white)
 ![](https://img.shields.io/badge/Dart-1572C3?style=for-the-badge&logo=Dart&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=MySQL&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
