@@ -1,13 +1,13 @@
 # Hello, I am Kenny 👋
 
-I'm a Computer engineering student on an intention to enhance as a successful software engineer. I love building web applications, mobile apps, and ml pipelines. I LOVE PYTHON!!!
+I'm a Computer engineering student on an intention to enhance as a successful software engineer and IoT engineer. I love building web applications, I love working on embedded systems projects
 
-- :wink: I'm Proficient in Python
-- 🔭 I’m currently learning and practicing flutter framework and Deep Learning
-- 👯 I’m looking to collaborate on Machine Learning, web development and mobile app development
+- :wink: I'm Proficient in Python and C/C++
+- 🔭 I’m currently learning React
+- 👯 I’m looking to collaborate on Web development and mobile app development
 - :thinking: I'm curious about web 3.0
 - 💬 Ask me about Machine Learning
-- 📫 How to reach me: [kehindeadejumobi82@gmail.com](mailto:kehindeadejumobi82@gmail.com) & [Twitter @PERCEP3ON](https://twitter.com/PERCEP3ON)
+- 📫 How to reach me: [kehindeadejumobi82@gmail.com](mailto:kehindeadejumobi82@gmail.com) & [Twitter @PERCEP3ON](https://twitter.com/tiny_perceptron)
 - 😄 Pronouns: He/Him
 
 ## Find me around the web 🌍
