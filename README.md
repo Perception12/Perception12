@@ -6,7 +6,7 @@ I'm a Computer engineering student on an intention to enhance as a successful so
 - 🔭 I’m currently learning React
 - 👯 I’m looking to collaborate on Web development and mobile app development
 - :thinking: I'm curious about web 3.0
-- 💬 Ask me about Machine Learning
+- 💬 Ask me about Software Engineering
 - 📫 How to reach me: [kehindeadejumobi82@gmail.com](mailto:kehindeadejumobi82@gmail.com) & [Twitter @PERCEP3ON](https://twitter.com/tiny_perceptron)
 - 😄 Pronouns: He/Him
 
