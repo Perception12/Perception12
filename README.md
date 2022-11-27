@@ -1,5 +1,8 @@
 # Hello, I am Kenny 👋
 
+![Visitor Badge](https://komarev.com/ghpvc/?username=Perception12&color=red&style=plastic)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Perception12)](https://github.com/Perception12/github-profile-trophy)
+
 I'm a Computer engineering student on an intention to enhance as a successful software engineer and IoT engineer. I love building web and mobile applications, I love working on embedded systems projects
 
 - :wink: I'm Proficient in Python and C/C++
