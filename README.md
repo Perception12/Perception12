@@ -55,6 +55,6 @@ I'm a Computer engineering student on an intention to enhance as a successful so
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Perception12&theme=dark)](https://git.io/streak-stats)]
 
 ## ☀️ Recent Activities
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Perception12&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
