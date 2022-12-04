@@ -52,7 +52,7 @@ I'm a Computer engineering student on an intention to enhance as a successful so
 ![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=perception12&count_private=true)
 
 ## 🌠 Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Perception12&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Perception12&theme=dark)](https://git.io/streak-stats)]
 
 ## ☀️ Recent Activities
 [![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=Perception12&theme=github)](https://github.com/Perception12/github-readme-activity-graph)
