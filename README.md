@@ -56,5 +56,5 @@ I'm a Computer engineering student on an intention to enhance as a successful so
 
 ## ☀️ Recent Activities
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kenny's github activity graph](https://activity-graph.herokuapp.com/graph?username=Perception12)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
