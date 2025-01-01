@@ -10,7 +10,7 @@ I'm a Computer engineering student on an intention to enhance as a successful so
 - 👯 I’m looking to collaborate on Web development and mobile app development
 - :thinking: I'm curious about web 3.0
 - 💬 Ask me about Software Engineering
-- 📫 How to reach me: [kehindeadejumobi82@gmail.com](mailto:kehindeadejumobi82@gmail.com) & [Twitter @tiny_perceptron](https://twitter.com/tiny_perceptron)
+- 📫 How to reach me: [kehindeadejumobi82@gmail.com](mailto:kehindeadejumobi82@gmail.com) & [Twitter @_perceptron__](https://twitter.com/_perceptron__)
 - 😄 Pronouns: He/Him
 
 ## Find me around the web 🌍
