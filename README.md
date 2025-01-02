@@ -3,13 +3,13 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Perception12&color=red&style=plastic)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Perception12)](https://github.com/Perception12/github-profile-trophy)
 
-I'm a Computer engineering student on an intention to enhance as a successful software engineer and IoT engineer. I love building web and mobile applications, I love working on embedded systems projects
+I'm a Computer engineering student on an intention to enhance as a successful AI engineer and IoT engineer. I love building web and mobile applications, I love working on embedded systems projects
 
 - :wink: I'm Proficient in Python and C/C++
-- 🔭 I’m currently workiing with flutter
-- 👯 I’m looking to collaborate on Web development and mobile app development
+- 🔭 I’m currently workiing with Sci-Kit Learn
+- 👯 I’m looking to collaborate on Artificial Intelligence and Machine Learning
 - :thinking: I'm curious about web 3.0
-- 💬 Ask me about Software Engineering
+- 💬 Ask me about AI
 - 📫 How to reach me: [kehindeadejumobi82@gmail.com](mailto:kehindeadejumobi82@gmail.com) & [Twitter @_perceptron__](https://twitter.com/_perceptron__)
 - 😄 Pronouns: He/Him
 
