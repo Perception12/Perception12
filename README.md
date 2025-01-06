@@ -33,11 +33,6 @@ I'm a Computer engineering student on an intention to enhance as a successful AI
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-
-
-## My github stats :innocent:
-![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=perception12&count_private=true)
-
 ## 🌠 Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Perception12&theme=dark)](https://git.io/streak-stats)
 
