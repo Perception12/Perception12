@@ -34,5 +34,5 @@ I'm a Computer engineering student on an intention to enhance as a successful AI
 
 
 ## 🌠 Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Perception12&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Perception12)](https://git.io/streak-stats)
 
