@@ -8,7 +8,7 @@ I'm a Computer engineering student on an intention to enhance as a successful AI
 - :wink: I'm Proficient in Python and C/C++
 - 🔭 I’m currently workiing with Sci-Kit Learn
 - 👯 I’m looking to collaborate on Artificial Intelligence and Machine Learning
-- :thinking: I'm curious about web 3.0
+- :thinking: I'm curious about NLP
 - 💬 Ask me about AI
 - 📫 How to reach me: [kehindeadejumobi82@gmail.com](mailto:kehindeadejumobi82@gmail.com) & [Twitter @_perceptron__](https://twitter.com/_perceptron__)
 - 😄 Pronouns: He/Him
