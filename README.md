@@ -30,6 +30,6 @@ I'm a Computer engineering student on an intention to enhance as a successful AI
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-## 🌠 Streaks
+## 🌠 Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Perception12)](https://git.io/streak-stats)
 
