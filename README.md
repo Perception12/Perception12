@@ -45,13 +45,10 @@ I enjoy designing end-to-end AI solutions that combine data, models, tools, and 
 
 
 ## 🌍 Find me around the web
-- 💼 LinkedIn: https://www.linkedin.com/in/kehinde-adejumobi-05799b1bb  
-- 🐦 Twitter/X: https://twitter.com/PERCEP3ON  
+- 💼 LinkedIn: [Kehinde Adejumobi](https://www.linkedin.com/in/kehinde-adejumobi-05799b1bb) 
+- 🐦 Twitter/X: [https://x.com/hey_itskenny](https://x.com/hey_itskenny)  
 - 📫 Email: [kehindeadejumobi82@gmail.com](mailto:kehindeadejumobi82@gmail.com)
 
-
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Perception12)](https://git.io/streak-stats)
 
 
 > I’m open to collaborations on **AI products, LLM tooling, and intelligent systems**.
