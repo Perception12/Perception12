@@ -3,7 +3,6 @@
 I'm a **Computer Engineering graduate** and **AI Engineer** focused on building intelligent systems with **Large Language Models (LLMs)**, **agentic AI**, and **applied machine learning**.  
 I enjoy designing end-to-end AI solutions that combine data, models, tools, and automation — and I also have a strong background in **IoT and embedded systems**.
 
----
 
 ## 🚀 What I do
 - 🧠 AI & Machine Learning Engineering  
@@ -12,7 +11,6 @@ I enjoy designing end-to-end AI solutions that combine data, models, tools, and 
 - 🌐 AI-powered web applications  
 - ⚡ Embedded & IoT systems (ESP32, Raspberry Pi)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +35,6 @@ I enjoy designing end-to-end AI solutions that combine data, models, tools, and 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
----
 
 ## 📌 Interests
 - Agentic AI & autonomous systems  
@@ -46,18 +43,15 @@ I enjoy designing end-to-end AI solutions that combine data, models, tools, and 
 - AI + IoT integration  
 - Practical, production-ready ML
 
----
 
 ## 🌍 Find me around the web
 - 💼 LinkedIn: https://www.linkedin.com/in/kehinde-adejumobi-05799b1bb  
 - 🐦 Twitter/X: https://twitter.com/PERCEP3ON  
 - 📫 Email: [kehindeadejumobi82@gmail.com](mailto:kehindeadejumobi82@gmail.com)
 
----
 
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Perception12)](https://git.io/streak-stats)
 
----
 
 > I’m open to collaborations on **AI products, LLM tooling, and intelligent systems**.
